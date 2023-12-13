@@ -20,7 +20,7 @@ I am a passionate 🎮 Game Developer and designer currently working with Unity 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 💭 Hobbies
-During my free time, I study and develop games. You can check out my series of video analyses and gameplays on [YouTube](https://www.youtube.com/watch?v=9xCxcNPoTy4&list=PLT_ZYR2XRy9y_qtUqy2hRLOOrA2_2oHA-&index=17) where I not only share my opinions but also demonstrate how I would implement features in a different and improved way for the player. Additionally, I actively participate in game jams to enhance my game development skills, and you can view my projects [here](https://ginocarlo01.itch.io/).
+
 
 ## 👾 Best Projects
 
