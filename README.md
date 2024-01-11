@@ -1,4 +1,4 @@
-## Hello there ! My name is Gino!
+## Hello there ! My name is Vitor!
 
 ## About Me
 I am a passionate 🎮 Game Developer and designer currently working with Unity and studying games since 2019. Over time, I have built all kinds of projects, from 2D platformers to FPS games. In all of my projects, I always use Game Development Documents (GDD) to plan and create new design ideas, thereby making the development process a lot easier. Additionally, I tend to create new games that can, in some way, build upon what I created in other projects, so every time I build a game, it's the best version I can produce.
