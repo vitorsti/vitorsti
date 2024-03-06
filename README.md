@@ -1,8 +1,7 @@
 ## Hello there ! My name is Vitor!
 
 ## About Me
-I am a passionate 🎮 Game Developer and designer currently working with Unity and studying games since 2015, I also  have  a Bachelor’s Degree in Digital Game Technology at Pontifical Catholic Uni-
-versity of Campinas. Over time, I have built all kinds of projects, from 2D platformers to FPS games. In all of my projects, I always use Game Development Documents (GDD) to plan and create new design ideas, thereby making the development process a lot easier. Additionally, I tend to create new games that can, in some way, build upon what I created in other projects, so every time I build a game, it's the best version I can produce.
+I am a passionate 🎮 Game Developer and designer currently working with Unity and studying games since 2015, I also  have  a Bachelor’s Degree in Digital Game Technology at Pontifical Catholic University of Campinas. Over time, I have built all kinds of projects, from 2D platformers to FPS games. In all of my projects, I always use Game Development Documents (GDD) to plan and create new design ideas, thereby making the development process a lot easier. Additionally, I tend to create new games that can, in some way, build upon what I created in other projects, so every time I build a game, it's the best version I can produce.
 
 ## 💼 Currentinly working with
 ### Game Development
@@ -28,5 +27,5 @@ versity of Campinas. Over time, I have built all kinds of projects, from 2D plat
 
 ### 🕵🏼‍♂️ Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitorstigliani@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/vitor-stigliani-35563a157/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-stigliani-35563a157/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://vitorsti.itch.io)
